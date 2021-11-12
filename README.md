@@ -60,6 +60,7 @@ AnimeGANv2のモデルの入力サイズ<br>
 
 # Reference
 * [bryandlee/animegan2-pytorch](https://github.com/bryandlee/animegan2-pytorch)
+* [Kazuhito00/AnimeGANv2-ONNX-Sample](https://github.com/Kazuhito00/AnimeGANv2-ONNX-Sample)<br>同梱しているONNXはAnimeGANv2-ONNX-Sampleのノートブックを利用
 
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
